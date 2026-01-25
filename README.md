@@ -30,7 +30,7 @@ This project is licensed under the MIT License (see **LICENSE**).
 Classification of Google Scholar abstract records into three disciplinary categories.
 
 ### Demonstration Materials
-- **DemoData.ipynb**  
+- **DemoData.txt**  
 A small sample of abstracts collected from Google Scholar, provided as a demo dataset.
 
 - **DemoCode.ipynb**  
