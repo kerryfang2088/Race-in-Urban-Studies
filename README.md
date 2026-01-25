@@ -57,7 +57,12 @@ Either
 2. Download the appropriate abstracts.  
 3. Organize them by **decade** and by **discipline**.  
 4. Use the notebooks in this repository to replicate the results.  
-Or compile the same list of abstracts from other available databases using the full list in **FullRecords.csv**   
+Or compile the same list of abstracts from other available databases using the full list in **FullRecords.csv**
+
+To support transparency and reproducibility, this repository includes:  
+- **FullRecords.csv**, which documents all abstract records used in the study, and
+- **DemoData.csv** and **DemoCode.ipynb**, which provide a complete, runnable demonstration of the analytical pipeline.
+
 ---
 
 ## Notes on Disciplinary Analysis
@@ -68,4 +73,4 @@ They are essentially the same as:
 - `Race_in_Urban_Studies_W2V.ipynb`  
 - `Race_in_Urban_Studies_CosineSim.ipynb`  
 
-with file paths modified to discipline-specific and decade-specific data.
+with file paths modified to discipline- and decade-specific data.
