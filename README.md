@@ -1,8 +1,8 @@
-# A Hundred Years of Racial Discourse in Urban Studies
+# A Hundred Years of Racial Discourse in U.S. Urban Studies 
 
 This repository contains Python Jupyter notebooks created to help **replicate results** for the article:
 
-> *"A Hundred Years of Racial Discourse in Urban Studies."*
+> *"A Hundred Years of Racial Discourse in U.S. Urban Studies."*
 
 The notebooks are organized by functionality for easier revisions and replication.
 
@@ -20,9 +20,6 @@ This project is licensed under the MIT License.
 
 - **Race_in_Urban_Studies_CosineSim.ipynb**  
   Cosine similarity analysis across decades.
-
-- **Race_in_Urban_Studies_HateSpeech.ipynb**  
-  Probability of hate speech analysis.
 
 ---
 ## Software Environment
@@ -54,6 +51,5 @@ They are essentially the same as:
 
 - `Race_in_Urban_Studies_W2V.ipynb`  
 - `Race_in_Urban_Studies_CosineSim.ipynb`  
-- `Race_in_Urban_Studies_HateSpeech.ipynb`  
 
 with file paths modified to discipline-specific and decade-specific data.
