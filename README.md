@@ -25,10 +25,18 @@ This project is licensed under the MIT License.
   Probability of hate speech analysis.
 
 ---
+## Software Environment
+
+This analysis was conducted using:
+
+- Python 3.12.3
+- Jupyter Notebook 7.2.2
+
+---
 
 ## Data Availability
 
-The data used in this project consist of abstracts from the Urban Studies literature.  
+The full data used in this project consist of abstracts from the Urban Studies literature.  
 Because these data require subscriptions to literature databases, the repository **does not include direct data files or download links**.  
 
 However, researchers with institutional access to these databases can:
