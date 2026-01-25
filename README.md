@@ -6,6 +6,7 @@ This repository contains Python Jupyter notebooks created to help **replicate re
 
 The notebooks are organized by functionality for easier revisions and replication.
 
+This project is licensed under the MIT License
 ---
 
 ## Repository Contents
