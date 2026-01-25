@@ -12,6 +12,7 @@ This project is licensed under the MIT License.
 
 ## Repository Contents
 
+Core Analysis Notebooks
 - **Race_in_Urban_Studies_LDA.ipynb**  
   Latent Dirichlet Allocation (LDA) topic modeling.
 
