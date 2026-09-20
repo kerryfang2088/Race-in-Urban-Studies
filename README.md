@@ -1,4 +1,4 @@
-# A Hundred Years of Racial Discourse in U.S. Urban Studies 
+# A Hundred Years of Racial Discourse in U.S. Urban Studies: A Systematic Review with Natural Language Processing  
 
 This repository contains Python Jupyter notebooks created to help **replicate results** for the article:
 
